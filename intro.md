@@ -1,11 +1,11 @@
 # Eduardo Andres Criollo Cabrera
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+	* Ciudad:   Cuenca
+	* Cédula:   0106582562
+	* Correo:   eacriollo2@utpl.edu.ec
 
-Check out the content pages bundled with this sample book to see more.
+Actualmente cursando el sexto ciclo de la carrera de tecnologías de la información,
+ trabajo en una empresa que brinda servicios en la rama de la electricidad y telecomunicaciones.
 
 ```{tableofcontents}
 ```
